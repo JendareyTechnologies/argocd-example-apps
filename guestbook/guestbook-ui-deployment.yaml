@@ -6,7 +6,7 @@ metadata:
     app: cookie-webpage
   name: cookie-webpage
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: cookie-webpage
